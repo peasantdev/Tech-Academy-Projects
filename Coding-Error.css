@@ -1,0 +1,12 @@
+.body {
+    color: darkblue;
+}
+
+.centered {
+    text-align: center;
+}
+
+.border {
+    border-style: dashed;
+    border-color: red;
+}
